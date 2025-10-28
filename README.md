@@ -58,10 +58,17 @@ I believe that *balance, curiosity, and self-discipline* are the keys to both pe
 
 ---
 
+## 🧾 Curriculum Vitae  
+
+You can also view my CV on Overleaf:  
+[![Open in Overleaf](https://img.shields.io/badge/Open%20in%20Overleaf-47A141?logo=overleaf&logoColor=white)](https://www.overleaf.com/read/vksgxdmbkfch#465e13)
+
+---
 ## 📫 Get in Touch  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/anna-sgambati-2a1039348/)  
-- 📧 [annaa.sgambati@gmail.com]  
+- 📧 [annaa.sgambati@gmail.com]
+- 
 
 ---
 
