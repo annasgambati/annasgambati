@@ -68,7 +68,6 @@ You can also view my CV on Overleaf:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/anna-sgambati-2a1039348/)  
 - 📧 [annaa.sgambati@gmail.com]
-- 
 
 ---
 
